@@ -1,6 +1,6 @@
 ## Introduction
 
-This a set of miscellaneous functions I've written in python to process sequence aligned sequence reads or genomic coordinates. They pretty bare-bones but I hope to make them nicer to use someday.
+This a set of miscellaneous functions I've written in python to process sequence aligned sequence reads or genomic coordinates. They are pretty bare-bones but I hope to make them nicer to use someday.
 
 So far there are three notebooks, corresponding to three tasks:
 
